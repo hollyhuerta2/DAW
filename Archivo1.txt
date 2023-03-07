@@ -1,0 +1,19 @@
+
+Tu Nombre completo es: holly huerta
+Tu CURP es: HUPH001016MVZRRLA9
+Tu edad es: 22
+Tu carrera es: ingenieria informatica
+Tu hobby: dibujar
+
+Tu Nombre completo es: holly abigail huerta prado
+Tu CURP es: HUPH001016MVZRRLA9
+Tu edad es: 22
+Tu carrera es: ingenieria informatica 
+Tu hobby: dibujar
+
+Tu Nombre completo es: Holly Abigail Huerta Prado
+Tu CURP es: HUPH001016MVZRRLA9
+Tu edad es: 22
+Tu carrera es: ingenieria informatica
+Tu matricula es: s19002939
+Tu hobby: dibujar
