@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7d08ab9-df27-459d-a9df-130a7d015701" name="Changes" comment="nueva modificacion">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Writer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/CursoAlumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/CursoSalon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/Profesores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/ProfesoresMaterias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/Salones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/Semestres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/TipoContrato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/TipoEstudios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/TipoMateria.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +71,9 @@
       <workItem from="1677613173276" duration="1205000" />
       <workItem from="1677911176106" duration="1041000" />
       <workItem from="1678066499956" duration="4738000" />
-      <workItem from="1678156634238" duration="6793000" />
+      <workItem from="1678156634238" duration="7851000" />
+      <workItem from="1678341684442" duration="204000" />
+      <workItem from="1681277931496" duration="9731000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1677911424503</created>
@@ -86,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678080754546</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="nueva modificacion">
+      <created>1678164870663</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678164870663</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
