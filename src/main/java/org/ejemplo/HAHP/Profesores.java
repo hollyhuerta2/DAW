@@ -1,30 +1,29 @@
 package org.ejemplo.HAHP;
 
 import java.io.Serializable;
+import java.time.LocalDate;
 
 public class Profesores implements Serializable {
     public static final Long serialVersionUID = 1L;
     private int idprof;
-    private String nomprof;
-    private String paterno;
-    private String materno;
+    private Nombrecom nombre;
     private String materiaesp;
     private String direc;
+    private LocalDate fechanam;
     private String telef, celu, email,lugarest;
     private int idecont,idetipoest;
 
     public Profesores(){
     }
-    public Profesores(int idprof,int idecont,int idetipoest){
+    public Profesores(int idprof,int idecont,int idetipoest, LocalDate fechanam){
         this.idprof = idprof;
         this.idecont= idecont;
         this.idetipoest= idetipoest;
+        this.fechanam = fechanam;
     }
-    public Profesores (String nomprof, String paterno, String materno,String materiaesp,String direc,String telef,
+    public Profesores (Nombrecom nombre,String materiaesp,String direc,String telef,
     String celu, String email){
-        this.nomprof = nomprof;
-        this.paterno = paterno;
-        this.materno =materno;
+        this.nombre = nombre;
         this.materiaesp = materiaesp;
         this.direc = direc;
         this.telef = telef;
@@ -40,23 +39,22 @@ public class Profesores implements Serializable {
     public void setIdecont(int idecont) {
         this.idecont = idecont;
     }
-    public String getNomprof() {return nomprof;}
-    public void setNomprof(String nomprof) {
-        this.nomprof = nomprof;
+    public Nombrecom getNombre() {return nombre;}
+    public void setNomprof(Nombrecom nombre) {
+        this.nombre = nombre;
     }
-    public String getPaterno() {return paterno;}
-    public void setPaterno(String paterno) {
-        this.paterno = paterno;
-    }
-    public String getMaterno() {return materno;}
-    public void setMaterno(String materno) {
-        this.materno = materno;
-    }
-
     public String getMateriaesp() {return materiaesp;}
     public void setMateriaesp(String materiaesp) {
         this.materiaesp = materiaesp;
     }
+
+    public LocalDate getFechanam() {
+        return fechanam;
+    }
+    public void setFechanam(LocalDate fechanam) {
+        this.fechanam = fechanam;
+    }
+
     public String getDirec() {return direc;}
     public void setDirec(String direc) {
         this.direc = direc;

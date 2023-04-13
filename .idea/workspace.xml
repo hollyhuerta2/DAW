@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7d08ab9-df27-459d-a9df-130a7d015701" name="Changes" comment="nueva modificacion">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/CursoAlumno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/CursoSalon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/Profesores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/ProfesoresMaterias.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/Salones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/Semestres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/TipoContrato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/TipoEstudios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/TipoMateria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/Alumnos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/Cursos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/Materia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/Nombrecom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/Profesores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ejemplo/HAHP/Profesores.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +70,8 @@
       <workItem from="1678066499956" duration="4738000" />
       <workItem from="1678156634238" duration="7851000" />
       <workItem from="1678341684442" duration="204000" />
-      <workItem from="1681277931496" duration="9731000" />
+      <workItem from="1681277931496" duration="9869000" />
+      <workItem from="1681355089333" duration="3528000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1677911424503</created>
@@ -103,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678164870663</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="nueva modificacion">
+      <created>1681287849559</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681287849559</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
