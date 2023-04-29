@@ -1,7 +1,7 @@
 package Controlador;
 
 import Datos.TipoContratoDAO;
-import Modelo.HAHP.TipoContrato;
+import HAHP.TipoContrato;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

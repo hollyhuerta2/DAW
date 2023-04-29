@@ -1,7 +1,7 @@
 package Controlador;
 
 import Datos.MateriaDAO;
-import Modelo.HAHP.Materia;
+import HAHP.Materia;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

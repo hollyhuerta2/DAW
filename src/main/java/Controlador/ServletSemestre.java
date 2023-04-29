@@ -2,7 +2,7 @@ package Controlador;
 
 
 import Datos.SemestresDAO;
-import Modelo.HAHP.Semestres;
+import HAHP.Semestres;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

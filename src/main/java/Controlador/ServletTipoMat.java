@@ -2,7 +2,7 @@ package Controlador;
 
 
 import Datos.TipoMateriaDAO;
-import Modelo.HAHP.TipoMateria;
+import HAHP.TipoMateria;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

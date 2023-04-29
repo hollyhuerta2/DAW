@@ -1,7 +1,7 @@
 package Controlador;
 
 import Datos.CursoAlumnoDAO;
-import Modelo.HAHP.CursoAlumno;
+import HAHP.CursoAlumno;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
